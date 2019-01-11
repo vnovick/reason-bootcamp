@@ -53,7 +53,7 @@ We will use VSCode as editor of our choice.
 - JS interop
 - Bucklescript
 
-[Day4]()
+[Day4](https://www.youtube.com/watch?v=gLLoIIAGCmE&index=4&list=PLqrUy7kON1mdq7DLMqQLeTOYRR3hlHaGx)
 - Recap
 - Continue with Bucklescript 
 - Bucklescript build system
